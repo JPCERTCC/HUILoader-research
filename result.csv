@@ -55,3 +55,5 @@ c020d16902bd5405d57ee4973eb25797087086e4f8079fac0fd8420c716ad153,,2021-08-17 23:
 a6d0fd9ef72bae00e676d421fc09656fb87405385a3bb168dfe114ef633ea72f,,2018-11-21 13:10:54,svchost.bin,Yes,,,svchost.exe,HxUpdateServiceInfo,HxUpdateServiceInfos,,
 cdb193b4a8e64b0c490a580647cc62f463fc2d55ad69abb55186e87f9c51745a,,2021-10-14 10:37:43,config.ini,,,,,,,,
 27b8e572902ffbdc746766e1d315721e282cfc470e98bc9218bec78f1046214c,,2021-07-16 03:42:20,system.ini,Yes,,,svchost.exe,WxUpdateServiceInfo,WxUpdateServiceInfos,,
+c567f09f4a8dcef297fa6bb608b8d5a67db89aba063d9ef007993dfa4f1ee52e,,2018-12-23 03:42:16,svchost.bin,Yes,,,svchost.exe,clr_optimization_v4.0.30319_31,Microsoft  .NET  Framework  NGEN  v4.0.30319_x86,,
+deb78961a1241e7e511f8dc323798dbabc243bdaf29c9411a611031ae90bba96,,2018-11-21 13:10:54,svchost.bin,Yes,,,svchost.exe,HxUpdateServiceInfo,HxUpdateServiceInfos,,
