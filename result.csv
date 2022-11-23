@@ -61,3 +61,4 @@ deb78961a1241e7e511f8dc323798dbabc243bdaf29c9411a611031ae90bba96,,2018-11-21 13:
 b2561c624e2f980e500abe6188f4f4b46e46a57642ec1c3829ce4d2d4bda9588,,2021-10-14 10:30:12,config.ini,,,,,,,,
 67601e145639752a68ecc77e544b084e98ed6ec21c63468ed6649327400faa29,,2017-05-24 13:12:27,store.dat,Yes,,,svchost.exe,,,,
 4d46b9abaa9e4972e3356decee4c987dcf0addaef524d2e58445dfaf986b68fb,,2018-11-21 13:10:54,svchost.bin,Yes,,,svchost.exe,HxUpdateServiceInfo,HxUpdateServiceInfos,,
+7e6e3d5a66645da186646956a1cca4e286c5260e8cf2ea62d24e6ef4ba3157c6,,2018-12-23 03:42:16,svchost.bin,Yes,,,svchost.exe,clr_optimization_v4.0.30319_31,Microsoft  .NET  Framework  NGEN  v4.0.30319_x86,,
