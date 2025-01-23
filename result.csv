@@ -74,3 +74,4 @@ be64016b89ebfd70403dad3baf845d7671e94ef80bc3de95df69ecfd22fb1acf,,2021-08-19 14:
 5befdd57099cfa5166fe82867a9069bd562aa2eda65696962c9a68e36a9a8bb7,,2021-08-10 01:25:13,svchook.dll,,,,svchost.exe,,,,
 45343c765d87b983bb8ed03d9c0ca25ec7304b94d6ab959e5de1870c5d6f62e5,,2021-08-10 01:25:13,svchook.dll,,,,svchost.exe,,,,
 5bc68df582c86c884b563b15057cc223f2e9bc1022ebb297e32a9a7e3036228b,,2021-08-16 09:04:29,ShowError.err,Yes,,,svchost.exe,,,,
+2f0b0a4f04ecbda8182883f5ed83c8688d11b8aee77b2b20fc4165724d966928,,2019-02-28 11:27:08,svchost.bin,Yes,,,svchost.exe,WxUpdateServiceInfo,WxUpdateServiceInfos,,
